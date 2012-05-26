@@ -8,7 +8,7 @@ scripts:
 
 ---
 
-<div class="trace">/ <a href="/">闭门造轮子</a> / {{ page.title }}</div>
+<div class="trace">/ <a href="/">Votbar</a> / {{ page.title }}</div>
 
 <article>
 	<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
