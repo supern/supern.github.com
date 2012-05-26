@@ -1,2 +1,6 @@
-markdown: rdiscount 
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://votbar.com
+author: supern lee
+pygments: true
 
