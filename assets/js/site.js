@@ -19,7 +19,7 @@ var site = {
 						language: 'zh-CN',
 						style: google.loader.themes.V2_DEFAULT,
 						callback: function() {
-							var customSearchControl = new google.search.CustomSearchControl('000346898720731947188:13h55x32l0y', {});
+							var customSearchControl = new google.search.CustomSearchControl('012337659988242164395:povnbzmqprq', {});
 							customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
 							
 							var options = new google.search.DrawOptions();
