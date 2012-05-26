@@ -63,7 +63,7 @@ var site = {
 	},
 	
 	Text: {
-		TPL_SEARCH_TITLE: '造轮子工程师 / 搜索：#{0}'
+		TPL_SEARCH_TITLE: 'Votbar / 搜索：#{0}'
 	}
 };
 

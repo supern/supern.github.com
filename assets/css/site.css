@@ -3,7 +3,7 @@ html,body,h1,h2,h3,h4,h5,h6,ul,ol,li,p,form,dl,dt,dd,figure{margin:0; padding:0;
 body{line-height:1.6em; font-family:Helvetica, Arial, sans-serif; color:#555;}
 a{margin:0 2px; color:#06c; text-decoration:none;}
 a[href^="http"]{margin-right:4px; padding-right:14px; background:url(http://elfjs.com/assets/css/img/external.png) no-repeat right;}
-a[href^="http://mytharcher.github.com"],
+a[href^="http://votbar.com"],
 a.hide-target-icon{padding-right:0; background:none;}
 a:hover{text-decoration:underline;}
 h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{margin:0;}
@@ -26,7 +26,7 @@ side .block a{margin:0px;}
 side .block-about p{margin:0.5em 0; color:#999;}
 side .block-about figure img{border-radius:2px;}
 side .block-about figcaption{margin:0.2em 0;}
-side .block-about figcaption:after{content:'<mytharcher@gmail.com>'; padding-left:.5em; color: #bbb; font-weight:bold; opacity: 0; transition:opacity .5s; -moz-transition:opacity .5s; -webkit-transition:opacity .5s;}
+side .block-about figcaption:after{content:'<supern.lee@gmail.com>'; padding-left:.5em; color: #bbb; font-weight:bold; opacity: 0; transition:opacity .5s; -moz-transition:opacity .5s; -webkit-transition:opacity .5s;}
 side .block-about:hover figcaption:after{opacity: 1;}
 side .block-fork{position: absolute; top:0; right:0; margin: 0;}
 
