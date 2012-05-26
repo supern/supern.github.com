@@ -5,7 +5,7 @@ permalink: /posts/:title.html
 exclude:
   - README.md
 
-host: mytharcher.github.com
+host: supern.github.com
 
 custom:
     category:
@@ -24,8 +24,8 @@ custom:
 
 meta:
     authors:
-      - name: mytharcher
-        email: mytharcher@gmail.com
+      - name: supern lee
+        email: supern.lee@gmail.com
         gravatar: 1cd8c12591616d8c22aaa624f8c07834
 
     gravatar:
