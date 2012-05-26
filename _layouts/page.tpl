@@ -40,7 +40,9 @@
 	<div class="block block-about">
 		<h3>关于</h3>
 		<figure>
-			<img src="https://lh5.googleusercontent.com/-DWcvRXhsk1E/AAAAAAAAAAI/AAAAAAAAAJ0/p47frDkXr4I/s250-c-k/photo.jpg" />
+			<img
+		src="https://lh5.googleusercontent.com/-DWcvRXhsk1E/AAAAAAAAAAI/AAAAAAAAAJ0/p47frDkXr4I/s250-c-k/photo.jpg"
+		width="100px" height="100px"/>
 			<figcaption><strong>supern lee</strong></figcaption>
 		</figure>
 		<p>码农。在移动互联网里面浪迹，爱好计算机相关的东
