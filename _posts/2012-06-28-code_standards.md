@@ -33,11 +33,11 @@ tags: android,CodeStandards
 
 例如：
 
-```private static synchronized horkingLongMethodName(int anArg, 
+`private static synchronized horkingLongMethodName(int anArg, 
 		Object anotherArg, String yetAnotherArg, 
 		Object andStillAnother) { 
 		... 
-} ```
+} `
 
 ## 注释
 - 代码本身应该包含软件的大部分信息，通过代码便可以理解它的意思
