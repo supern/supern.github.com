@@ -32,6 +32,11 @@ tags: android,CodeStandards
 - 代码编码使用utf-8
 
 例如：
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 ```java
 private static synchronized horkingLongMethodName(int anArg, 
 		Object anotherArg, String yetAnotherArg, 
