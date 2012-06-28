@@ -32,12 +32,13 @@ tags: android,CodeStandards
 - 代码编码使用utf-8
 
 例如：
-
-`private static synchronized horkingLongMethodName(int anArg, 
+```java
+private static synchronized horkingLongMethodName(int anArg, 
 		Object anotherArg, String yetAnotherArg, 
 		Object andStillAnother) { 
 		... 
-} `
+} 
+```
 
 ## 注释
 - 代码本身应该包含软件的大部分信息，通过代码便可以理解它的意思
